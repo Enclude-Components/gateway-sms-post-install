@@ -43,3 +43,17 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+.vscode
+.idea
+.project
+.settings
+
+# Anonymous Scripts
+/scripts
+
+# LWC Typescript Compiled JS Ignore
+force-app/**/lwc/**/*.js

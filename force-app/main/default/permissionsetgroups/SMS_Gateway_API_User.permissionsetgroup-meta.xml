@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Assign this to the Minimum Access SMS Gateway API User</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>SMS Gateway API User</label>
+    <permissionSets>SMS_Gateway_External_Client_App</permissionSets>
+    <permissionSets>encsms__SMS_Gateway</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
